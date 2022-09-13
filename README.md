@@ -5,4 +5,4 @@
 I'm sys_32, a student learing R, Javascript, and C++.
 I'm a Destiny 2 and VTuber Addict.
 Not much else to say here.
-<link="https://sys-32links.carrd.co/"></link>
+Links: https://sys-32links.carrd.co/
