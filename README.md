@@ -3,5 +3,5 @@
 # Hey! 👋
 I'm sys_32, a student learing R, Javascript, and Python.
 I'm a Destiny 2 and VTuber Addict.
-Not much else to say here.
+I'm too lazy to make this page look good
 Links: https://sys64.dev
