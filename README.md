@@ -1,5 +1,5 @@
 # 💫 About Me:
-CompSci Student @ Cal State LA<br>Destiny 2, Honkai Stat Rail, and Vtuber Addict<br>Learning Python<br>Some experience with discord.js, HTML, CSS, and R
+CompSci Student @ Cal State LA<br>Destiny 2, Honkai Star Rail, and Vtuber Addict<br>Learning Python<br>Some experience with discord.js, HTML, CSS, and R
 
 
 ## 🌐 Socials:
