@@ -1,5 +1,5 @@
 # 💫 About Me:
-CompSci Student @ Cal State LA<br>Planes n Vtuber Addict<br>Learning Java<br>Some experience with python, discord.js, HTML, CSS, and R
+CompSci Student @ Cal State LA<br>Planes n Vtuber Addict<br>Learning Java and Kotlin<br>Some experience with python, discord.js, HTML, CSS, and R<br>Alot of my work is done in private repositories, so you might not see alot here.
 
 
 ## 🌐 Socials:
